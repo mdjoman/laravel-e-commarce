@@ -1,4 +1,4 @@
-@extends('admin.admin-master')
+@extends('Admin.admin-master')
 @section('body')
 <div class="container-fluid">
 
